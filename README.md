@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Giorgi Tskhvedadze 👋</h1>
 
-### I'm a junior front-end developer with a passion for creating exceptional user experiences. Here's a bit about me:
+### I'm front-end developer with a passion for creating exceptional user experiences. Here's a bit about me:
 
 📘 **Education**: Graduated from Digital Institute with a focus on front-end development 
 
@@ -16,6 +16,8 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23415F9D.svg?style=for-the-badge) 
 ![Functional Programming](https://img.shields.io/badge/Functional%20Programming-%2351B7F0.svg?style=for-the-badge) 
 ![DOM](https://img.shields.io/badge/DOM-%23F7DF1E.svg?style=for-the-badge) 
@@ -23,6 +25,7 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 ![API](https://img.shields.io/badge/API-%236DB33F.svg?style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-%231a202c.svg?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=for-the-badge)
@@ -30,8 +33,6 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 ![Ant Design (antd)](https://img.shields.io/badge/Ant%20Design-%230A1D3E.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)
