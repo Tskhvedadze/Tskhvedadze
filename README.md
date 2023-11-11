@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Giorgi Tskhvedadze 👋</h1>
 
-### I'm front-end developer with a passion for creating exceptional user experiences. Here's a bit about me:
+### I'm Web developer with a passion for creating exceptional user experiences. Here's a bit about me:
 
 📘 **Education**: Graduated from Digital Institute with a focus on front-end development 
 
@@ -12,7 +12,7 @@
 
 🚀 **Goal**: To ensure exceptional user experiences in the projects I work on.
 
-If you're looking for a dedicated and enthusiastic junior front-end developer with a strong focus on React and a talent for creating impressive user interfaces, I'd be thrilled to connect with you!
+If you're looking for a dedicated and enthusiastic experienced Web Developer with a strong focus on React, React Native, Next.js and a talent for creating impressive user interfaces, I'd be thrilled to connect with you!
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
